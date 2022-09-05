@@ -1,0 +1,145 @@
+<!-- Ci-dessous la partie signs avec la grid !   
+   
+   
+   
+   
+   <div class="blocks">
+        <div class="item 1">
+          <img src="./aries.png">
+      </div>
+      
+      <div class="item 2">
+        <img src="./taurus.png">
+      </div>
+      
+      <div class="item 3">
+        <img src="./gemini.png">
+      </div>
+
+      <div class="item 4">
+        <img src="./cancer.png">
+      </div>
+      
+      <div class="item 5">
+        <img src="./leo.png">
+      </div>
+
+      <div class="item 6">
+        <img src="./virgo.png">
+      </div>
+
+      <div class="item 7">
+        <img src="./libra.png">
+      </div>
+
+      <div class="item 8">
+        <img src="./scorpio.png">
+      </div>
+
+      <div class="item 9">
+        <img src="./sagittarius.png">
+      </div>
+
+      <div class="item 10">
+        <img src="./capricorn.png">
+      </div>
+
+      <div class="item 11">
+        <img src="./aquarius.png">
+      </div>
+
+      <div class="item 12">
+        <img src="./pisces.png">
+      </div>
+
+    </div>
+
+
+<!--Fin de la partie signs avec grid-->
+
+
+
+
+
+<!--Usage de base sans la grid-->
+    <main class="icone">
+
+        <a href="https://wwww.astrogeek.com/aquarius">
+            <img alt="Aquarius" src="./aquarius.png">
+         </a>
+         <a href="https://wwww.astrogeek.com/pisces">
+            <img alt="Pisces" src="./pisces.png">
+         </a>
+         <a href="https://wwww.astrogeek.com/aries">
+            <img alt="Aries" src="./aries.png">
+         </a>
+    
+        <br>
+        <a href="https://wwww.astrogeek.com/taurus">
+            <img alt="Taurus" src="./taurus.png">
+         </a>
+         <a href="https://wwww.astrogeek.com/gemini">
+            <img alt="Gemini" src="./gemini.png">
+         </a>
+         <a href="https://wwww.astrogeek.com/cancer">
+            <img alt="Cancer" src="./cancer.png">
+         </a>
+    
+        <br>
+        <a href="https://wwww.astrogeek.com/leo">
+            <img alt="leo" src="./leo.png">
+         </a>
+         <a href="https://wwww.astrogeek.com/virgo">
+            <img alt="virgo" src="./virgo.png">
+         </a>
+         <a href="https://wwww.astrogeek.com/libra">
+            <img alt="Libra" src="./libra.png">
+         </a>
+    
+        <br>
+        <a href="https://wwww.astrogeek.com/scorpio">
+            <img alt="Scorpio" src="./scorpio.png">
+         </a>
+         <a href="https://wwww.astrogeek.com/sagittarius">
+            <img alt="sagittarius" src="./sagittarius.png">
+         </a>
+         <a href="https://wwww.astrogeek.com/capricorn">
+            <img alt="Capricorn" src="./capricorn.png">
+         </a>
+    </main>
+
+
+
+    <!--Menu Burger:
+    
+    
+    <nav role="navigation">
+  <div id="menuToggle">
+    A fake / hidden checkbox is used as click reciever,
+    so you can use the :checked selector on it.
+    -->
+    <input type="checkbox" />
+    
+    <!--
+    Some spans to act as a hamburger.
+    
+    They are acting like a real hamburger,
+    not that McDonalds stuff.
+    -->
+    <span></span>
+    <span></span>
+    <span></span>
+    
+    <!--
+    Too bad the menu has to be inside of the button
+    but hey, it's pure CSS magic.
+    -->
+    <ul id="menu">
+      <a href="#"><li>Home</li></a>
+      <a href="#"><li>About</li></a>
+      <a href="#"><li>Info</li></a>
+      <a href="#"><li>Contact</li></a>
+      <a href="https://erikterwan.com/" target="_blank"><li>Show me more</li></a>
+    </ul>
+  </div>
+</nav> -->
